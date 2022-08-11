@@ -1,6 +1,12 @@
-👋 Hi, I’m sky
+👋 Hi, 我是 sky  
+我出生于2009年  
+我来自中国
+我喜爱编程
+主攻go语言
+会一点Python，c++
 
-<!---
-skyqvn/skyqvn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, my name is sky  
+I was born in 2009.  
+I am from China.  
+I like programming, 
+mainly focus on GO language and know a little Python and C++
